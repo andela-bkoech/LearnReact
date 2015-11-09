@@ -1,0 +1,25 @@
+{
+  "name": "LearnReact",
+  "homepage": "https://github.com/andela-bkoech/LearnReact",
+  "authors": [
+    "Brian Koech <brnkirwa@gmail.com>"
+  ],
+  "description": "Learning reactjs",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bowser": "browser#~1.0.0",
+    "jquery": "~2.1.4",
+    "react-dom": "~0.1.0",
+    "react": "~0.14.2",
+    "mustache.js": "mustache#~2.2.0"
+  }
+}
